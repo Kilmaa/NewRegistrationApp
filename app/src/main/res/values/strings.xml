@@ -1,8 +1,17 @@
 <resources>
-    <string name="app_name">Demo My Login App</string>
-    <string name="text1">Name</string>
-    <string name="text2">Password</string>
-    <string name="button1">Login</string>
-    <string name="button2">Cancel</string>
+    <string name="app_name">Registration App</string>
+    <string name="heading">Registration Form</string>
+    <string name="subhead">Welcome to Adventure Learning Club!</string>
+    <string name="FullN">Full Name</string>
+    <string name="FirstN">First Name</string>
+    <string name="LastN">Last Name</string>
+    <string name="Gender">Gender</string>
+    <string name="Gender1">Male</string>
+    <string name="Gender2">Female</string>
+    <string name="id">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="button">Register</string>
 
 </resources>
